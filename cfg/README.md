@@ -1,1 +1,1 @@
-### /cfg
+### /cstrike/cfg
